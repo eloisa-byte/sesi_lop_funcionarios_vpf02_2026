@@ -13,3 +13,7 @@ struct Funcionario{
 - O segundo lê o arquivo funcionarios.csv e faz um relatorio de quantos funcionários têm na empresa e a média salarial da empresa
 
 # Tecnologias
+- Dev C++
+
+# Passos para testar
+Abra os arquivos .c com Dev C++ e execute.
